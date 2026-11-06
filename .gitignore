@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+
+# runtime / generated
+*.log
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store

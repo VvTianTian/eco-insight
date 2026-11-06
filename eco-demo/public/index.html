@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>生态环境信息抓取与分析平台 · Demo</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<div id="app">
+  <aside id="sidebar">
+    <div class="logo">
+      <div class="logo-badge">AI</div>
+      <div class="logo-text">
+        <div class="logo-title">生态环境</div>
+        <div class="logo-sub">信息抓取与分析平台</div>
+      </div>
+    </div>
+    <nav id="nav">
+      <a data-page="home" class="active"><span class="nav-icon">◈</span>首页总览</a>
+      <a data-page="news"><span class="nav-icon">◉</span>新闻精选<span class="count-badge" id="news-count"></span></a>
+      <a data-page="query"><span class="nav-icon">◧</span>数据查询</a>
+      <a data-page="charts"><span class="nav-icon">◆</span>数据图表</a>
+      <a data-page="trend"><span class="nav-icon">↗</span>趋势分析</a>
+      <a data-page="report"><span class="nav-icon">▤</span>报告生成</a>
+    </nav>
+    <div class="sidebar-foot">
+      <div class="demo-tag">内部演示版 DEMO</div>
+      <div class="src-status" id="src-status"></div>
+    </div>
+  </aside>
+
+  <main id="main">
+    <header id="page-header">
+      <div>
+        <h1 id="page-title">首页总览</h1>
+        <p id="page-subtitle">PLATFORM OVERVIEW</p>
+      </div>
+      <div class="header-right">
+        <span id="news-updated"></span>
+      </div>
+    </header>
+
+    <section id="page-home" class="page active">
+      <div class="stat-cards" id="home-stats"></div>
+      <div class="panel">
+        <h3>数据源接入状态</h3>
+        <table class="data-table" id="source-table">
+          <thead><tr><th>数据源</th><th>类型</th><th>状态</th><th>说明</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div class="panel">
+        <h3>一期模块</h3>
+        <div class="module-grid" id="module-grid"></div>
+      </div>
+    </section>
+
+    <section id="page-news" class="page">
+      <div class="news-toolbar">
+        <input id="news-search" type="text" placeholder="新闻查询与解读:输入关键词检索标题 / 摘要 / 标签,回车搜索">
+        <div class="tag-filters" id="tag-filters"></div>
+      </div>
+      <p class="news-meta" id="news-meta"></p>
+      <div id="news-list"></div>
+    </section>
+
+    <section id="page-query" class="page">
+      <div class="query-layout">
+        <div class="query-main">
+          <div id="chat-box"></div>
+          <div class="chat-input-row">
+            <textarea id="chat-input" rows="2" placeholder="请输入您的问题,例如:广西近三年的GDP走势如何?"></textarea>
+            <button id="chat-send" class="btn-primary">发送</button>
+          </div>
+          <p class="chat-hint">Shift + Enter 换行 · 数据为演示示例数据</p>
+        </div>
+        <aside class="query-side">
+          <h4>试试这些问题</h4>
+          <div id="example-questions"></div>
+          <h4>指标目录</h4>
+          <div id="indicator-catalog"></div>
+        </aside>
+      </div>
+    </section>
+
+    <section id="page-charts" class="page">
+      <div class="chart-controls">
+        <label>指标</label>
+        <select id="chart-indicator"></select>
+        <label>图表类型</label>
+        <select id="chart-type">
+          <option value="line">折线图</option>
+          <option value="bar">柱状图</option>
+        </select>
+      </div>
+      <div id="chart-main" class="chart-box"></div>
+    </section>
+
+    <section id="page-trend" class="page">
+      <div class="chart-controls">
+        <label>指标</label>
+        <select id="trend-indicator"></select>
+        <label>预测年数</label>
+        <select id="trend-years"><option>2</option><option>3</option></select>
+      </div>
+      <div id="trend-main" class="chart-box"></div>
+      <div class="panel" id="trend-words"></div>
+    </section>
+
+    <section id="page-report" class="page">
+      <div class="chart-controls">
+        <label>报告期</label>
+        <input type="month" id="report-month">
+        <label><input type="checkbox" id="rep-news" checked> 新闻摘要</label>
+        <label><input type="checkbox" id="rep-data" checked> 数据图表</label>
+        <label><input type="checkbox" id="rep-trend" checked> 趋势研判</label>
+        <button id="report-gen" class="btn-primary">生成报告</button>
+        <button id="report-print" class="btn-ghost">导出 / 打印</button>
+      </div>
+      <div id="report-out" class="report-paper"><p class="report-placeholder">选择报告内容后点击"生成报告"</p></div>
+    </section>
+  </main>
+</div>
+
+<script src="/vendor/echarts.min.js"></script>
+<script src="/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,910 @@
+{
+  "updatedAt": "2026-11-06T10:43:34.667Z",
+  "keywords": [
+    "生态环境",
+    "重金属",
+    "排查整治",
+    "畜禽养殖",
+    "秸秆",
+    "漓江总体战",
+    "中央生态环境保护督察"
+  ],
+  "sources": [
+    {
+      "key": "cenews",
+      "name": "中国环境网",
+      "status": "ok",
+      "count": 80
+    },
+    {
+      "key": "people",
+      "name": "人民网",
+      "status": "error",
+      "message": "人民网:页面为JS动态渲染或WAF防护,需浏览器渲染方案(Playwright),演示版暂未接入"
+    },
+    {
+      "key": "gxnews",
+      "name": "广西新闻网",
+      "status": "error",
+      "message": "广西新闻网:页面为JS动态渲染或WAF防护,需浏览器渲染方案(Playwright),演示版暂未接入"
+    },
+    {
+      "key": "gxzf",
+      "name": "广西政府网",
+      "status": "error",
+      "message": "广西政府网:页面为JS动态渲染或WAF防护,需浏览器渲染方案(Playwright),演示版暂未接入"
+    }
+  ],
+  "matchedCount": 11,
+  "items": [
+    {
+      "id": "cenews-1819772",
+      "title": "重庆“四不两直”查访溶洞污染防治",
+      "summary": "重庆市政府督查办、市生态环境局组织开展“四不两直”查访溶洞等重点领域污染防治工作。",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819772",
+      "tags": [
+        "生态环境"
+      ],
+      "column": "发布厅",
+      "matched": true
+    },
+    {
+      "id": "cenews-1819779",
+      "title": "河北生态环境分区管控成果已服务3.4万余个项目选址",
+      "summary": "截至目前，河北省共划定生态环境管控单元2111个。",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819779",
+      "tags": [
+        "生态环境"
+      ],
+      "column": "发布厅",
+      "matched": true
+    },
+    {
+      "id": "cenews-1819658",
+      "title": "2026年福建生态环境应急管理技能竞赛举办",
+      "summary": "全面检验环境应急队伍“平急结合”的实战效能和“协同合作”的实战能力。",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819658",
+      "tags": [
+        "生态环境"
+      ],
+      "column": "发布厅",
+      "matched": true
+    },
+    {
+      "id": "cenews-1813987",
+      "title": "瓜州集中开展矿山专项联合检查",
+      "summary": "甘肃省酒泉市生态环境局瓜州分局立足监管职责，近日联动自然资源、公安等部门，集中开展辖区矿山专项联合检查行动。",
+      "date": "2026-10-10",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1813987",
+      "tags": [
+        "生态环境"
+      ],
+      "column": "地方头条",
+      "matched": true
+    },
+    {
+      "id": "cenews-1804148",
+      "title": "广州发布首批适用生态环境法典典型案例",
+      "summary": "对标法典规定，加快修订广州市生态环境行政处罚裁量权基准等配套执法制度，印发首批适配法典执法文书模板，搭建适用法典典型案例、优秀执法卷宗资源库，精准落实宽严相济执法理念，规范准确适用法典处置各类生态环境违法行为。",
+      "date": "2026-08-20",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1804148",
+      "tags": [
+        "生态环境"
+      ],
+      "column": "地方头条",
+      "matched": true
+    },
+    {
+      "id": "cenews-1784354",
+      "title": "最高奖励2万元！西安公开征集秦岭生态环境破坏行为线索",
+      "summary": "举报方式有三种，可以拨打电话029-89801345进行举报；可以通过微信二维码平台进行举报；还可以来信、来访举报，具体地址为西安市长安区关中环线子午段2345号，邮编为710109。",
+      "date": "2026-05-12",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1784354",
+      "tags": [
+        "生态环境"
+      ],
+      "column": "地方头条",
+      "matched": true
+    },
+    {
+      "id": "cenews-1771473",
+      "title": "西安推进秦岭生态环境保护 让“诗与远方”触手可及",
+      "summary": "",
+      "date": "2026-03-05",
+      "source": "中国新闻网",
+      "url": "https://www.cenews.com.cn/news.html?aid=1771473",
+      "tags": [
+        "生态环境"
+      ],
+      "column": "地方头条",
+      "matched": true
+    },
+    {
+      "id": "cenews-1768732",
+      "title": "陕西“五三三三”创新举措推动生态环境损害赔偿工作质效双升",
+      "summary": "",
+      "date": "2026-02-12",
+      "source": "中国环境报",
+      "url": "https://www.cenews.com.cn/news.html?aid=1768732",
+      "tags": [
+        "生态环境"
+      ],
+      "column": "地方头条",
+      "matched": true
+    },
+    {
+      "id": "cenews-1767860",
+      "title": "陕西​常态化开展“送法送技入园入企”",
+      "summary": "为全面落实陕西省委、省政府“三个年”活动部署，全力打好“八场硬仗”，陕西省生态环境厅以常态化“送法送技入园入企”活动为抓手，通过精准帮扶、创新普法、柔性监管三项举措，推动服务从“被动响应”转向“主动靠前”，持续优化生态环境领域营商环境，为全省高质量发展注入绿色动能。陕西省生态环境厅修订印发《陕西省生态环境行政处罚裁量权基准》，明确从重、从轻、减轻、不予处罚等情形，并将“企业经济承受能力”纳入考量。",
+      "date": "2026-02-09",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1767860",
+      "tags": [
+        "生态环境"
+      ],
+      "column": "地方头条",
+      "matched": true
+    },
+    {
+      "id": "cenews-1765198",
+      "title": "生态赋能 绘就和美乡村新画卷——武汉市生态环境局精准帮扶李文三村的实践与经验",
+      "summary": "▲在武汉市农业农村局的悉心指导下，经过市生态环境局的精准帮扶，李文三村成功获评“全国文明村镇”“市级生态环境宣教基地”等荣誉称号1精准把脉，高位领航显担当乡村振兴，关键在人，核心在领导。武汉市生态环境局党组始终将李文三村帮扶工作摆在重要位置，以“举全局之力促乡村振兴”的决心，为李文三村发展把脉定向、精准支招。",
+      "date": "2026-01-26",
+      "source": "武汉生态环境",
+      "url": "https://www.cenews.com.cn/news.html?aid=1765198",
+      "tags": [
+        "生态环境"
+      ],
+      "column": "地方头条",
+      "matched": true
+    },
+    {
+      "id": "cenews-1759075",
+      "title": "嘉峪关：以生态立市书写“十四五”高质量发展新篇章",
+      "summary": "五年来，甘肃省嘉峪关市坚持“生态立市”，全力以赴推进生态文明建设，以高水平保护推动高质量发展、创造高品质生活。向净土要“安全”。这个今年荣获“全国文明村”的村庄，正是嘉峪关以生态优先理念推动乡村全面振兴的缩影。下一步，嘉峪关市将坚持系统思维，持续擦亮蓝天底色，润泽一方碧水，厚植净土根基，将生态文明建设融入城市发展的脉络，让优美的生态环境成为最普惠的民生福祉。",
+      "date": "2025-12-22",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1759075",
+      "tags": [
+        "生态环境"
+      ],
+      "column": "地方头条",
+      "matched": true
+    },
+    {
+      "id": "cenews-1819877",
+      "title": "带着10元来打卡，这个字怎么读？怎么写？|一江碧水·十年蝶变",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819877",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819680",
+      "title": "进博会逛什么？六大展区逛起来：看新、尝鲜、谈生意",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819680",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819801",
+      "title": "如何玩转乡村民宿+森林康养？他们在山林湖院里找答案",
+      "summary": "多维视角碰撞火花",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819801",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819798",
+      "title": "怎样把森林康养“搬”进民宿？这群乡村CEO集结取经",
+      "summary": "绿水青山终会回馈给村民实实在在的收获。",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819798",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1818666",
+      "title": "项目VS废物流：资源化时代，争项目还重要吗？｜固废五问⑤",
+      "summary": "项目是“点”，废物流是“链”。项目仍然是获取废物流的必要载体，但项目本身不再等于完整竞争力。",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1818666",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819885",
+      "title": "北京供热系统启动试运行！温暖有了“绿色算法”",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819885",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819892",
+      "title": "全球首个高温气冷堆商业化应用项目，开工！",
+      "summary": "我国核能综合利用领域取得重大突破",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819892",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819876",
+      "title": "绿色供应链CITI指数和气候行动CATI指数显示：核心供应商成为中坚力量",
+      "summary": "研究报告，显示中外龙头企业继续推进绿色供应链建设，多家核心供应商正成为推动世界工厂绿色转型的中坚力量。",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819876",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819659",
+      "title": "小菌菇撑起“致富伞”",
+      "summary": "砧子山村以规模化发展、绿色循环升级和联农带农赋能，走出一条产业兴、乡村美、百姓富的可持续发展之路。",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819659",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819538",
+      "title": "数字人“净净”上线，南京生态课堂来了AI助教",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819538",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819705",
+      "title": "真相来了丨网传“不放秋假就是违规”是真的吗？",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "央视新闻客户端",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819705",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819839",
+      "title": "河北曲周：“盐碱地”蹚出绿色增长路",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "光明日报",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819839",
+      "tags": [],
+      "column": "聚焦",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819838",
+      "title": "科学家开放巡天数据 分钟级追踪近6000万颗恒星",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "光明日报",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819838",
+      "tags": [],
+      "column": "聚焦",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819836",
+      "title": "2026年世界互联网大会乌镇峰会闭幕 达成多项成果共识",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "光明日报",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819836",
+      "tags": [],
+      "column": "聚焦",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819835",
+      "title": "稻香新村的足球赛事，为何非办不可？",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "新华社",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819835",
+      "tags": [],
+      "column": "聚焦",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819829",
+      "title": "迈向绝对零度 中国空间站制备出已知最冷物质",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "新华社",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819829",
+      "tags": [],
+      "column": "聚焦",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819827",
+      "title": "今冬供暖季能源供应总体能够满足需求",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "新华社",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819827",
+      "tags": [],
+      "column": "聚焦",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819825",
+      "title": "党领导人民治理黄河80年来建成水利工程5.4万余个",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "新华社",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819825",
+      "tags": [],
+      "column": "聚焦",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819823",
+      "title": "新修订的水法2027年3月22日起施行",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "新华社",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819823",
+      "tags": [],
+      "column": "聚焦",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819820",
+      "title": "全面从严治党关键在从严治吏",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "新华社",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819820",
+      "tags": [],
+      "column": "聚焦",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819701",
+      "title": "圈粉全球！国风国潮服饰海外热销 老外专程来抢货",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "央视财经",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819701",
+      "tags": [],
+      "column": "聚焦",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819700",
+      "title": "“最强厄尔尼诺事件”来了 明年防汛形势如何？",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "中央广播电视总台中国之声",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819700",
+      "tags": [],
+      "column": "聚焦",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819699",
+      "title": "秋粮收储有新招 今年秋粮收购已超1亿吨",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "央视新闻客户端",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819699",
+      "tags": [],
+      "column": "聚焦",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819698",
+      "title": "乌镇峰会打开融合、开放、共赢之窗",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "中国新闻网",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819698",
+      "tags": [],
+      "column": "聚焦",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819697",
+      "title": "黄土高原小山村结缘碳汇交易",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "人民日报",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819697",
+      "tags": [],
+      "column": "聚焦",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819696",
+      "title": "乌兰察布：“风吹草低见Token”",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "人民日报",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819696",
+      "tags": [],
+      "column": "聚焦",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819695",
+      "title": "石砭峪新村有了“新账本”",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "人民日报",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819695",
+      "tags": [],
+      "column": "聚焦",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819653",
+      "title": "副省长温暖赴大气督察一线：既鼓干劲，也压担子",
+      "summary": "",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819653",
+      "tags": [],
+      "column": "聚焦",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819654",
+      "title": "陕西启动2026年度国家绿色算力设施推荐工作",
+      "summary": "广泛动员辖区内符合条件的算力设施主动开展绿色化转型",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819654",
+      "tags": [],
+      "column": "发布厅",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819131",
+      "title": "读图丨共享实验室练硬功",
+      "summary": "江源区多名基层监测技术人员走进实验室、上手练操作，在真实实验场景中夯实实操能力、规范日常监测行为。",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819131",
+      "tags": [],
+      "column": "发布厅",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819232",
+      "title": "山绿起来，水流起来，村庄活起来",
+      "summary": "推窗见绿，出门见水，塔后村已成为新时代美丽乡村的样板地。",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819232",
+      "tags": [],
+      "column": "发布厅",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819655",
+      "title": "吉林省委书记黄强：加强河湖生态保护修复",
+      "summary": "吉林省委书记黄强主持召开省委常委会会议。",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819655",
+      "tags": [],
+      "column": "发布厅",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819513",
+      "title": "眉山：涵养绿色生态，提升河湖管护水平",
+      "summary": "眉山市召开2026年全市田长制林长制暨市总河长全体会议。",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819513",
+      "tags": [],
+      "column": "发布厅",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819607",
+      "title": "击退入侵物种、体验候鸟迁徙……合肥湿地科普来到居民家门口",
+      "summary": "打破传统科普的距离感，吸引一百余组亲子家庭到场参与。",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819607",
+      "tags": [],
+      "column": "发布厅",
+      "matched": false
+    },
+    {
+      "id": "cenews-1818930",
+      "title": "读图丨昔日土山沟变生态园",
+      "summary": "昔日土山沟变为青山叠翠、碧水澄明的生态乐园，吸引游客前来旅游观光。",
+      "date": "2026-11-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1818930",
+      "tags": [],
+      "column": "发布厅",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819543",
+      "title": "只有懂仪器才能防造假，这场培训班上，开拆！｜黎姐探班",
+      "summary": "搞清楚数据究竟是怎么来的~",
+      "date": "2026-11-05",
+      "source": "中国环境监测之家",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819543",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819544",
+      "title": "便携式监测设备咋用？教学干货来了！｜黎姐探班",
+      "summary": "大咖来讲解，请收藏～",
+      "date": "2026-11-05",
+      "source": "中国环境监测之家",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819544",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819601",
+      "title": "第九届中国国际进口博览会正式开幕，今年有何看点？",
+      "summary": "​更有新意，从一个产品到一条产业链。",
+      "date": "2026-11-05",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819601",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819236",
+      "title": "无人机当“哨兵”，AI来“找茬”",
+      "summary": "一套“空中发现、地面核实、闭环整改”的智慧监管流程，正在武汉上演。",
+      "date": "2026-11-05",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819236",
+      "tags": [],
+      "column": "发布厅",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819233",
+      "title": "舟山嵊泗顺着生态规律让海藻扎下根",
+      "summary": "海藻场修复工程总修复面积1663平方米。",
+      "date": "2026-11-05",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819233",
+      "tags": [],
+      "column": "发布厅",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819507",
+      "title": "污染物向交界区域扩散！京冀联动处置模拟险情",
+      "summary": "这次演练主要就是检验京冀跨区域应急联动能不能落地见效。",
+      "date": "2026-11-05",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819507",
+      "tags": [],
+      "column": "发布厅",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819302",
+      "title": "四川省人大常委会副主任朱家德：用最严格制度最严密法治守好绿水青山",
+      "summary": "在筑牢长江黄河上游生态屏障上持续发力。",
+      "date": "2026-11-05",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819302",
+      "tags": [],
+      "column": "发布厅",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819305",
+      "title": "安徽以更高标准更高质量建设美丽新安江",
+      "summary": "到2028年底，新安江流域水环境质量总体稳定，国考断面水质达标率100%，县级及以上集中式水源地水质达标率100%。",
+      "date": "2026-11-05",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819305",
+      "tags": [],
+      "column": "发布厅",
+      "matched": false
+    },
+    {
+      "id": "cenews-1818932",
+      "title": "盾构机如何将海量废弃泥浆变废为宝？",
+      "summary": "产出渣料含水率控制在25%—35%；施工污水经深度净化，实现100%场内循环回用。",
+      "date": "2026-11-05",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1818932",
+      "tags": [],
+      "column": "发布厅",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819424",
+      "title": "多部门联合部署全面节约战略",
+      "summary": "到2030年，我国单位国内生产总值能耗、用水量、建设用地使用面积比2025年分别降低10%左右、10%、15%。",
+      "date": "2026-11-05",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819424",
+      "tags": [],
+      "column": "发布厅",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819226",
+      "title": "​郑州部署打好打赢秋冬季大气污染防治攻坚战",
+      "summary": "2026—2027年秋冬季大气污染防治攻坚工作推进会召开。",
+      "date": "2026-11-05",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819226",
+      "tags": [],
+      "column": "发布厅",
+      "matched": false
+    },
+    {
+      "id": "cenews-1819237",
+      "title": "安阳以更大力度推进秋冬季大气污染综合治理",
+      "summary": "下大力气破解大气污染难点痛点堵点，着力提升重污染天气应对实效。",
+      "date": "2026-11-05",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1819237",
+      "tags": [],
+      "column": "发布厅",
+      "matched": false
+    },
+    {
+      "id": "cenews-1818936",
+      "title": "读图丨观山海 望星空",
+      "summary": "六合朝阳景区临海山坡的星与海露营基地成为海岛度假热门打卡地。",
+      "date": "2026-11-05",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1818936",
+      "tags": [],
+      "column": "发布厅",
+      "matched": false
+    },
+    {
+      "id": "cenews-1817640",
+      "title": "中国环境报社严正声明",
+      "summary": "",
+      "date": "2026-10-27",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1817640",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1817383",
+      "title": "党的二十届五中全会",
+      "summary": "",
+      "date": "2026-10-26",
+      "source": "中国环境网",
+      "url": "https://www.cenews.com.cn/news.html?aid=1817383",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1816553",
+      "title": "最高补贴4.5万元！11月30日截止",
+      "summary": "排放标准认定上，国三及以下排放标准大中型柴油客车及非营运柴油货车主要为2013年7月1日前生产的车辆。客车最高补3万元重型货车最高补4.5万元大中型柴油客车按车型分档：中型每辆2.0万元，大型每辆3.0万元。11月30日前申请，资金先到先得补贴申请时间为《方案》印发之日起至2026年11月30日。车辆报废时间应在2026年1月1日0时至11月30日24时之间，以本市公安交管部门登记的车辆档案注销办理时间为准。",
+      "date": "2026-10-21",
+      "source": "成都生态环境",
+      "url": "https://www.cenews.com.cn/news.html?aid=1816553",
+      "tags": [],
+      "column": "地方头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1813716",
+      "title": "COP17·全球生物多样性 中国在行动",
+      "summary": "",
+      "date": "2026-10-08",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1813716",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1803132",
+      "title": "AI系列短剧——韦一发那些事",
+      "summary": "",
+      "date": "2026-08-14",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1803132",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1795321",
+      "title": "聚焦《美丽中国建设“十五五”规划》",
+      "summary": "",
+      "date": "2026-07-06",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1795321",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1794277",
+      "title": "习近平党建思想",
+      "summary": "",
+      "date": "2026-06-30",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1794277",
+      "tags": [],
+      "column": "头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1785687",
+      "title": "西安政协召开“加强新能源体系建设扩大绿色电力应用”专题协商会",
+      "summary": "聚焦完善电力能源体系、推进电力应用低碳化发展这一核心议题。",
+      "date": "2026-05-20",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1785687",
+      "tags": [],
+      "column": "地方头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1785762",
+      "title": "朱鹮重新发现45周年——从7只到万羽的守护之路",
+      "summary": "",
+      "date": "2026-05-20",
+      "source": "中国环境报",
+      "url": "https://www.cenews.com.cn/news.html?aid=1785762",
+      "tags": [],
+      "column": "地方头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1784657",
+      "title": "陕西召开河湖长制林长制工作会议",
+      "summary": "以更高质量更实举措推进治水治林工作",
+      "date": "2026-05-14",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1784657",
+      "tags": [],
+      "column": "地方头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1784383",
+      "title": "陕西省委书记赵一德：以久久为功的韧劲当好秦岭卫士",
+      "summary": "不断提升秦岭生态系统多样性稳定性持续性。",
+      "date": "2026-05-12",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1784383",
+      "tags": [],
+      "column": "地方头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1781098",
+      "title": "西安市委书记蒿慧杰：把黄河流域生态保护作为高质量发展的基准线",
+      "summary": "协同推进减污降碳扩绿增长，奋力绘就人与自然和谐共生的美丽西安新画卷。",
+      "date": "2026-04-24",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1781098",
+      "tags": [],
+      "column": "地方头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1779894",
+      "title": "三秦大地“点绿成金”——陕西探索“两山”理念转化的多元答卷",
+      "summary": "机制破冰，让生态资源“活”起来",
+      "date": "2026-04-17",
+      "source": "陕西日报",
+      "url": "https://www.cenews.com.cn/news.html?aid=1779894",
+      "tags": [],
+      "column": "地方头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1775268",
+      "title": "陕西持续强化渭河流域河湖和生态区“清四乱”整治监管",
+      "summary": "大力实施循环畅通织网工程，着力构建现代水网体系。",
+      "date": "2026-03-26",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1775268",
+      "tags": [],
+      "column": "地方头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1774111",
+      "title": "全面从严治党为美丽陕西建设提供坚强保障",
+      "summary": "",
+      "date": "2026-03-18",
+      "source": "中国环境报",
+      "url": "https://www.cenews.com.cn/news.html?aid=1774111",
+      "tags": [],
+      "column": "地方头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1769661",
+      "title": "陕西精准识别城市“金边银角”",
+      "summary": "案例入选全民所有自然资源资产清查典型案例。",
+      "date": "2026-02-23",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1769661",
+      "tags": [],
+      "column": "地方头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1769373",
+      "title": "陕西发文加强和规范矿区生态修复",
+      "summary": "深入贯彻落实国家关于生态文明建设的战略部署，进一步压实各方责任，提升治理效能",
+      "date": "2026-02-16",
+      "source": "中国环境APP",
+      "url": "https://www.cenews.com.cn/news.html?aid=1769373",
+      "tags": [],
+      "column": "地方头条",
+      "matched": false
+    },
+    {
+      "id": "cenews-1759570",
+      "title": "荆州：和长江“楚”个朋友",
+      "summary": "",
+      "date": "2025-12-24",
+      "source": "湖北省生态环境宣传教育中心",
+      "url": "https://www.cenews.com.cn/news.html?aid=1759570",
+      "tags": [],
+      "column": "地方头条",
+      "matched": false
+    }
+  ]
+}
